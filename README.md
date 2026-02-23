@@ -1,4 +1,4 @@
- 💫 Hi 👋, I'm Arslan Khan 
+Hi 👋, I'm **Arslan Khan** 💫  <br/>
 Software Engineer | Front End Developer | ReactJs | NextJs | NodeJs | IT Manager
 
 Email Me 👉 ✉️ **arslanikram143@gmail.com* For Collaboration/Project or Anything Else. 😊😊
@@ -8,7 +8,7 @@ Email Me 👉 ✉️ **arslanikram143@gmail.com* For Collaboration/Project or An
 - 🌱 **I’m currently learning:** Back-end (Node.js)
 - 👯 **I’m looking to collaborate on:** Institute Management System
 - 🤔 **I’m looking for help with:** Hospital Management System
-- 💬 **Ask me about:** Collaboration, Tech Support
+- 💬 **Ask me about:** Anything
 - 📫 **How to reach me:** arslanikram143@gmail.com
 - 😄 **Pronouns:** Arslan Sir
 - ⚡ **Fun fact:** You are always living in the past
@@ -27,6 +27,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=arslanikram143&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=arslanikram143&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=arslanikram143&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=arslanikram143&theme=radical&no-frame=false&no-bg=true&margin-w=4)
@@ -44,10 +48,6 @@ Here are some ideas to get you started:
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 </div>
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=arslanikram143&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=arslanikram143&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=arslanikram143&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 
 
