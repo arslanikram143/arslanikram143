@@ -1,5 +1,5 @@
 Hi 👋, I'm **Arslan Khan** 💫  <br/>
-Software Engineer |FullStack Developer | NextJs | ReactJs | NodeJs | Postgresql | IT Manager
+Software Engineer | FullStack Developer | NextJs | ReactJs | NodeJs | Postgresql | IT Manager
 
 Email Me 👉 ✉️ **arslanikram143@gmail.com* For Collaboration/Project or Anything Else. 😊😊
 
