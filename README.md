@@ -4,7 +4,7 @@ Software Engineer | FullStack Developer | NextJs | ReactJs | NodeJs | Postgresql
 Email Me 👉 ✉️ **arslanikram143@gmail.com* For Collaboration/Project or Anything Else. 😊😊
 
 
-- 🔭 **I’m currently working on:** Institute Management System
+- 🔭 **I’m currently working on:** Institution Management System
 - 🌱 **I’m currently learning:** Back-end (Node.js)
 - 👯 **I’m looking to collaborate on:** Institute Management System
 - 🤔 **I’m looking for help with:** Hospital Management System
